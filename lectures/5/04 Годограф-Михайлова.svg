@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="170mm"
+   height="165mm"
+   viewBox="0 0 170 165"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="04 Годограф-Михайлова.svg"
+   inkscape:export-filename="01 Неустойчивые-системы.png"
+   inkscape:export-xdpi="299"
+   inkscape:export-ydpi="299"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="4.0168561"
+     inkscape:cx="259.03343"
+     inkscape:cy="296.62501"
+     inkscape:window-width="1918"
+     inkscape:window-height="1038"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid837"
+       units="mm"
+       spacingx="1"
+       spacingy="1"
+       originx="0"
+       originy="0" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="169.99998"
+       height="165"
+       id="page2518" />
+    <inkscape:page
+       x="179.99998"
+       y="0"
+       width="170"
+       height="165"
+       id="page2520" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1L-6-0-28-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="arrow1L-2-9-9-7"
+         transform="scale(-0.5)" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:;stop-color:#000000"
+       d="m 75,55 c -6,0 9.30267,4.256473 9,10 -0.279472,5.303302 -33,-3 -39.000001,4.999999"
+       id="path3570"
+       sodipodi:nodetypes="csc" />
+    <g
+       id="g2516">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#Arrow1L-6-0-28-2)"
+         d="M 5,85 H 150"
+         id="path880-3"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;line-height:7.25714px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+         x="80"
+         y="10"
+         id="text884-6"><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+           x="80"
+           y="10"
+           id="tspan882-0">Im</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#Arrow1L-6-0-28-2)"
+         d="M 80,160 V 15"
+         id="path2452"
+         sodipodi:nodetypes="cc"
+         inkscape:transform-center-y="2.5" />
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;line-height:7.25714px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="160"
+         y="86"
+         id="text2508"><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+           x="160"
+           y="86"
+           id="tspan2506">Re</tspan></text>
+    </g>
+    <g
+       id="g2534"
+       transform="translate(180)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#Arrow1L-6-0-28-2)"
+         d="M 5,85 H 150"
+         id="path2522"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;line-height:7.25714px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+         x="80"
+         y="10"
+         id="text2526"><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+           x="80"
+           y="10"
+           id="tspan2524">Im</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#Arrow1L-6-0-28-2)"
+         d="M 80,160 V 15"
+         id="path2528"
+         sodipodi:nodetypes="cc"
+         inkscape:transform-center-y="2.5" />
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;line-height:7.25714px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="160"
+         y="86"
+         id="text2532"><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+           x="160"
+           y="86"
+           id="tspan2530">Re</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#008000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;stroke-dasharray:none;marker-end:url(#Arrow1L-6-0-28-2)"
+       d="m 100,84.999998 c 0,0 -0.518103,-14.412793 -5.000001,-19.999999 C 90.518101,59.412793 84.31695,55 75,55 c -9.31695,0 -22.555468,6.029887 -30.000001,14.999999 -7.444533,8.970112 -8.258328,22.889214 -4.301077,36.057161 3.957251,13.16794 11.453194,21.89402 26.360314,25.6208 C 81.966356,135.40474 90,135 105,130 c 15,-5 25.43394,-12.49803 35,-30 9.56606,-17.501969 15,-80 15,-80"
+       id="path2692"
+       sodipodi:nodetypes="czzzzzzzc" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stop-color:#000000;marker-end:url(#Arrow1L-6-0-28-2)"
+       d="m 294.99999,84.999998 c 0,0 -7.3442,-14.482013 -15,-19.999999 C 272.34419,59.482013 262.30078,53.150362 250,55 237.69922,56.849638 225.48042,64.032049 215,79.999998 204.51958,95.967947 200,150 200,150"
+       id="path3486"
+       sodipodi:nodetypes="czzzc" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:4.40667px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="91.572052"
+       y="93.083725"
+       id="text3490"><tspan
+         sodipodi:role="line"
+         id="tspan3492"
+         x="91.572052"
+         y="93.083725"
+         style="font-size:7.05556px">ω=0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:4.40667px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="135.19518"
+       y="20.276051"
+       id="text3546"><tspan
+         sodipodi:role="line"
+         id="tspan3548"
+         x="135.19518"
+         y="20.276051">ω=∞</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:4.40667px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="206.42862"
+       y="150.59045"
+       id="text3552"><tspan
+         sodipodi:role="line"
+         id="tspan3550"
+         x="206.42862"
+         y="150.59045">ω=∞</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:4.40667px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="290.58673"
+       y="93.909798"
+       id="text3556"><tspan
+         sodipodi:role="line"
+         id="tspan3554"
+         x="290.58673"
+         y="93.909798"
+         style="font-size:7.05556px">ω=0</tspan></text>
+  </g>
+</svg>

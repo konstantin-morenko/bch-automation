@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="195mm"
+   height="105mm"
+   viewBox="0 0 195 105"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="02 Переходной-процесс.svg"
+   inkscape:export-filename="scheme.png"
+   inkscape:export-xdpi="299"
+   inkscape:export-ydpi="299"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.89245898"
+     inkscape:cx="634.20281"
+     inkscape:cy="132.77921"
+     inkscape:window-width="1918"
+     inkscape:window-height="1038"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid837"
+       units="mm"
+       spacingx="1"
+       spacingy="1"
+       originx="0"
+       originy="0" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="195"
+       height="105"
+       id="page480" />
+    <inkscape:page
+       x="205"
+       y="0"
+       width="105"
+       height="105"
+       id="page482" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1L-6-0-28-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="arrow1L-2-9-9-7"
+         transform="scale(-0.5)" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1L-6-0-28-2);stop-color:#000000;stop-opacity:1"
+       d="M 121,26 H 5 v 61 h 8.5"
+       id="path2439"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:7.25714px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+       x="35"
+       y="89"
+       id="text884-6"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         x="35"
+         y="89"
+         id="tspan882-0">датчик</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:7.25714px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+       x="100"
+       y="85"
+       id="text1630"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         x="100"
+         y="85"
+         id="tspan1628">нормирующий</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         x="100"
+         y="92.257141"
+         id="tspan1632">преобразователь</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:7.25714px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+       x="167"
+       y="89"
+       id="text1638"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         x="167"
+         y="89"
+         id="tspan1636">решатель</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:7.25714px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+       x="154"
+       y="54"
+       id="text1644"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         x="154"
+         y="54"
+         id="tspan1642">исполнительный</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         x="154"
+         y="61.257141"
+         id="tspan1650">орган</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:7.25714px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+       x="154.19464"
+       y="24.378199"
+       id="text1648"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         x="154.19464"
+         y="24.378199"
+         id="tspan1646">объект</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         x="154.19464"
+         y="31.63534"
+         id="tspan1652">управления</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stop-color:#000000"
+       id="rect1664"
+       width="66"
+       height="18"
+       x="121"
+       y="47" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stop-color:#000000"
+       id="rect1666"
+       width="71"
+       height="18"
+       x="64"
+       y="77" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stop-color:#000000"
+       id="rect1668"
+       width="66"
+       height="18"
+       x="121"
+       y="17" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stop-color:#000000"
+       id="rect1670"
+       width="40"
+       height="18"
+       x="147"
+       y="77" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stop-color:#000000"
+       id="rect1672"
+       width="35"
+       height="18"
+       x="17"
+       y="77" />
+    <path
+       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1L-6-0-28-2);stop-color:#000000;stop-opacity:1"
+       d="m 52,87 h 8"
+       id="path1674"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1L-6-0-28-2);stop-color:#000000;stop-opacity:1"
+       d="m 135,87 h 8"
+       id="path1676"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1L-6-0-28-2);stop-color:#000000;stop-opacity:1"
+       d="M 165,77 V 69"
+       id="path1680"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1L-6-0-28-2);stop-color:#000000;stop-opacity:1"
+       d="M 165,47 V 39"
+       id="path1682"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1L-6-0-28-2);stop-color:#000000;stop-opacity:1"
+       d="m 152,5 v 8"
+       id="path1733"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:7.25714px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+       x="137"
+       y="71.927528"
+       id="text1743"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         x="137"
+         y="71.927528"
+         id="tspan1741">канал связи</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:7.25714px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+       x="124.86736"
+       y="7.2436805"
+       id="text1954"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         x="124.86736"
+         y="7.2436805"
+         id="tspan1952">возмущение</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:7.25714px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+       x="73.207466"
+       y="22.243681"
+       id="text1958"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         x="73.207466"
+         y="22.243681"
+         id="tspan1956">управляемая величина</tspan></text>
+    <path
+       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1L-6-0-28-2);stop-color:#000000;stop-opacity:1"
+       d="M 230,90 V 20"
+       id="path592"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1L-6-0-28-2);stop-color:#000000;stop-opacity:1"
+       d="m 230,90 h 70"
+       id="path641"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:7.25714px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+       x="248.19464"
+       y="98.680283"
+       id="text645"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         x="248.19464"
+         y="98.680283"
+         id="tspan643">Xmin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:7.25714px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+       x="287"
+       y="99"
+       id="text800"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         x="287"
+         y="99"
+         id="tspan798">Xmax</tspan></text>
+    <path
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="M 248,92 V 88"
+       id="path802" />
+    <path
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="M 290,92 V 88"
+       id="path1640" />
+    <path
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 228,80 h 4"
+       id="path1642" />
+    <path
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 228,30 h 4"
+       id="path1644" />
+    <path
+       style="fill:#ff0000;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="M 248,80 290.00001,30"
+       id="path1700" />
+    <path
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.6;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 248,90 V 80"
+       id="path1814"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.6;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 230,80 h 18"
+       id="path1818"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#ffffff;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1810"
+       cx="247.99998"
+       cy="80"
+       r="2" />
+    <path
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.6;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 290,90 V 30"
+       id="path1816"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.6;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 230,30 h 60"
+       id="path1820"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#ffffff;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="circle1812"
+       cx="290"
+       cy="30"
+       r="2" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:7.25714px;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+       x="228"
+       y="78"
+       id="text1832"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         x="228"
+         y="78"
+         id="tspan1830">0 В</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:7.25714px;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+       x="245"
+       y="10"
+       id="text1848"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         x="245"
+         y="10"
+         id="tspan1846">0-5 мА</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:7.25714px;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+       x="285"
+       y="10"
+       id="text1852"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         x="285"
+         y="10"
+         id="tspan1850">5-20 мА</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:7.25714px;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+       x="228"
+       y="28"
+       id="text1856"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         x="228"
+         y="28"
+         id="tspan1854">10 В</tspan></text>
+  </g>
+</svg>
